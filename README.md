@@ -1,8 +1,13 @@
-**Visual files removed due to commercial issues**
+# Defend Till Sunshine
 
-Here is the scripts used on "Defend Till Sunshine Demo" on Steam.
+- I am developing this project for like a 2 years but it is in on hold state now, %95 aspect of the game created by myself "Erce Uslu". **Some files and models are removed from repository due to future commercial problems**.
 
-https://store.steampowered.com/app/1514090/Defend_Till_Sunshine/
+- INTRO:
+  
+- Defend Till Sunshine is a exploration-survival game which you will experience with your puppy. You need to survive against multiple situations. Discover across the land, find villages, learn craft techniques, interact with villagers and learn tips from them, build your own house and more!
+
+- https://store.steampowered.com/app/1514090/Defend_Till_Sunshine/
+
 
 **YOUTUBE VIDEOS:**
 
